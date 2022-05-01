@@ -34,24 +34,38 @@ namespace Connect_To_Database_Sample
                 SqlDataReader reader = sqlCommand.ExecuteReader();
                 if (reader.Read())
                 {
-                    MessageBox.Show("Dang nhap thanh cong");
+                    MessageBox.Show("Dang nhap thanh cong",
+                        "Thong bao",
+                        MessageBoxButtons.OK,
+                        MessageBoxIcon.Information);
                 }
                 else
                 {
-                    MessageBox.Show("Dang nhap KHONG thanh cong");
+                    MessageBox.Show(
+                        "Dang nhap  KHONG thanh cong",
+                        "Thong bao",
+                        MessageBoxButtons.OK,
+                        MessageBoxIcon.Information);
                 }
             }
             catch (Exception ex)
             {
                 MessageBox.Show(ex.Message);
-                //Console.WriteLine(ex.Message);
-                //MessageBox.Show("Loi ket noi");
             }
         }
 
         private void btnExit_Click(object sender, EventArgs e)
         {
-            Application.Exit();
+            DialogResult dialogResult =
+                MessageBox.Show(
+                    "Ban co muon thoat hay khong?", 
+                    "Thong bao", 
+                    MessageBoxButtons.OKCancel, 
+                    MessageBoxIcon.Question);
+            if (dialogResult == DialogResult.OK)
+            {
+                Application.Exit();
+            }
         }
     }
 }

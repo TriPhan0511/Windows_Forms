@@ -48,5 +48,10 @@ namespace Connect_To_Database_Sample
                 //MessageBox.Show("Loi ket noi");
             }
         }
+
+        private void btnExit_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }

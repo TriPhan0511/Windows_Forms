@@ -1,0 +1,11 @@
+D:\Studying\DotNet\Windows_Forms\Windows_Forms_Tutorials\PictureViewer\bin\Debug\PictureViewer.exe.config
+D:\Studying\DotNet\Windows_Forms\Windows_Forms_Tutorials\PictureViewer\bin\Debug\PictureViewer.exe
+D:\Studying\DotNet\Windows_Forms\Windows_Forms_Tutorials\PictureViewer\bin\Debug\PictureViewer.pdb
+D:\Studying\DotNet\Windows_Forms\Windows_Forms_Tutorials\PictureViewer\obj\Debug\PictureViewer.csproj.AssemblyReference.cache
+D:\Studying\DotNet\Windows_Forms\Windows_Forms_Tutorials\PictureViewer\obj\Debug\PictureViewer.csproj.SuggestedBindingRedirects.cache
+D:\Studying\DotNet\Windows_Forms\Windows_Forms_Tutorials\PictureViewer\obj\Debug\PictureViewer.Form1.resources
+D:\Studying\DotNet\Windows_Forms\Windows_Forms_Tutorials\PictureViewer\obj\Debug\PictureViewer.Properties.Resources.resources
+D:\Studying\DotNet\Windows_Forms\Windows_Forms_Tutorials\PictureViewer\obj\Debug\PictureViewer.csproj.GenerateResource.cache
+D:\Studying\DotNet\Windows_Forms\Windows_Forms_Tutorials\PictureViewer\obj\Debug\PictureViewer.csproj.CoreCompileInputs.cache
+D:\Studying\DotNet\Windows_Forms\Windows_Forms_Tutorials\PictureViewer\obj\Debug\PictureViewer.exe
+D:\Studying\DotNet\Windows_Forms\Windows_Forms_Tutorials\PictureViewer\obj\Debug\PictureViewer.pdb

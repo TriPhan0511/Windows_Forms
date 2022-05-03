@@ -1,0 +1,8 @@
+D:\Studying\DotNet\Windows_Forms\Windows_Forms_Tutorials\Sample_Console_App\bin\Debug\Sample_Console_App.exe.config
+D:\Studying\DotNet\Windows_Forms\Windows_Forms_Tutorials\Sample_Console_App\bin\Debug\Sample_Console_App.exe
+D:\Studying\DotNet\Windows_Forms\Windows_Forms_Tutorials\Sample_Console_App\bin\Debug\Sample_Console_App.pdb
+D:\Studying\DotNet\Windows_Forms\Windows_Forms_Tutorials\Sample_Console_App\obj\Debug\Sample_Console_App.csproj.AssemblyReference.cache
+D:\Studying\DotNet\Windows_Forms\Windows_Forms_Tutorials\Sample_Console_App\obj\Debug\Sample_Console_App.csproj.SuggestedBindingRedirects.cache
+D:\Studying\DotNet\Windows_Forms\Windows_Forms_Tutorials\Sample_Console_App\obj\Debug\Sample_Console_App.csproj.CoreCompileInputs.cache
+D:\Studying\DotNet\Windows_Forms\Windows_Forms_Tutorials\Sample_Console_App\obj\Debug\Sample_Console_App.exe
+D:\Studying\DotNet\Windows_Forms\Windows_Forms_Tutorials\Sample_Console_App\obj\Debug\Sample_Console_App.pdb

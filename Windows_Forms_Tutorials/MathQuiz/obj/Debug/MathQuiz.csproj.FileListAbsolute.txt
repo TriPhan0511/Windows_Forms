@@ -9,3 +9,4 @@ D:\Studying\DotNet\Windows_Forms\Windows_Forms_Tutorials\MathQuiz\obj\Debug\Math
 D:\Studying\DotNet\Windows_Forms\Windows_Forms_Tutorials\MathQuiz\obj\Debug\MathQuiz.csproj.CoreCompileInputs.cache
 D:\Studying\DotNet\Windows_Forms\Windows_Forms_Tutorials\MathQuiz\obj\Debug\MathQuiz.exe
 D:\Studying\DotNet\Windows_Forms\Windows_Forms_Tutorials\MathQuiz\obj\Debug\MathQuiz.pdb
+D:\Studying\DotNet\Windows_Forms\Windows_Forms_Tutorials\MathQuiz\obj\Debug\MathQuiz.Form2.resources

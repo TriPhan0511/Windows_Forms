@@ -1,0 +1,12 @@
+E:\C#\NguyenHuy_Winform1\NguyenHuy_Winform1\bin\Debug\NguyenHuy_Winform1.exe.config
+E:\C#\NguyenHuy_Winform1\NguyenHuy_Winform1\bin\Debug\NguyenHuy_Winform1.exe
+E:\C#\NguyenHuy_Winform1\NguyenHuy_Winform1\bin\Debug\NguyenHuy_Winform1.pdb
+E:\C#\NguyenHuy_Winform1\NguyenHuy_Winform1\obj\Debug\NguyenHuy_Winform1.csproj.AssemblyReference.cache
+E:\C#\NguyenHuy_Winform1\NguyenHuy_Winform1\obj\Debug\NguyenHuy_Winform1.csproj.SuggestedBindingRedirects.cache
+E:\C#\NguyenHuy_Winform1\NguyenHuy_Winform1\obj\Debug\NguyenHuy_Winform1.Form1.resources
+E:\C#\NguyenHuy_Winform1\NguyenHuy_Winform1\obj\Debug\NguyenHuy_Winform1.Properties.Resources.resources
+E:\C#\NguyenHuy_Winform1\NguyenHuy_Winform1\obj\Debug\NguyenHuy_Winform1.csproj.GenerateResource.cache
+E:\C#\NguyenHuy_Winform1\NguyenHuy_Winform1\obj\Debug\NguyenHuy_Winform1.csproj.CoreCompileInputs.cache
+E:\C#\NguyenHuy_Winform1\NguyenHuy_Winform1\obj\Debug\NguyenHuy_Winform1.exe
+E:\C#\NguyenHuy_Winform1\NguyenHuy_Winform1\obj\Debug\NguyenHuy_Winform1.pdb
+E:\C#\NguyenHuy_Winform1\NguyenHuy_Winform1\obj\Debug\NguyenHuy_Winform1.Form2.resources
